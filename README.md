@@ -48,7 +48,7 @@ const salsaNabila = {
 
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 
-### 💻 Languages
+<h3 align="center">💻 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
@@ -58,7 +58,7 @@ const salsaNabila = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
 </p>
 
-### 🎨 Frontend Development
+<h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/>
@@ -67,7 +67,7 @@ const salsaNabila = {
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff"/>
 </p>
 
-### ⚙️ Backend Development
+<h3 align="center">⚙️ Backend Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff"/>
@@ -75,13 +75,13 @@ const salsaNabila = {
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff"/>
 </p>
 
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=fff"/>
    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff"/>
 </p>
 
-### 🤖 AI & Machine Learning
+<h3 align="center">🤖 AI & Machine Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=fff"/>
@@ -89,7 +89,7 @@ const salsaNabila = {
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=fff"/>
 </p>
 
-### 🚀 DevOps & Tools
+<h3 align="center">🚀 DevOps & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/>
