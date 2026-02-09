@@ -13,10 +13,34 @@
   <img src="https://img.shields.io/github/followers/salsanabila-tech?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salsanabila-tech&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsanabila-tech&layout=compact&theme=radical" width="49%" />
-</p>
+---
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+```js
+const salsaNabila = {
+  name: "Salsa Nabila",
+  role: "Mobile Developer",
+  location: "Indonesia 🇮🇩",
+  education: "Informatics Engineering Student",
+
+  code: ["JavaScript", "TypeScript", "PHP"],
+  technologies: {
+    mobile: ["React Native"],
+    frontEnd: ["React", "Tailwind", "Bootstrap"],
+    backEnd: ["Node.js", "Express", "Laravel"],
+    databases: ["MySQL"],
+    tools: ["VS Code", "Postman", "Git"]
+  },
+
+  currentFocus: "Building mobile apps & improving UI/UX",
+  funFact: "I enjoy turning ideas into real apps 📱✨"
+};
+</td> <td width="45%" align="center"> <img src="https://illustrations.popsy.co/gray/work-from-home.svg" width="300"/> </td> </tr> </table>
 
 
 ✨ Terima kasih sudah mampir!
