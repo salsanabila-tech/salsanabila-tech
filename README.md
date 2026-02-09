@@ -1,19 +1,7 @@
-### 👋 Hai, aku Salsanabila!
+<p align="center">
+  <img src="./banner.png" alt="Salsanabila Banner" />
+</p>
 
-🌟 Saya seorang **Software Developer** | Berminat di **Web Dev & Mobile Dev** 🚀
-
-✨ *Welcome to my GitHub profile!*
----
-
-### 🛠️ Skills
-- React.js
-- Python
-- HTML, CSS, JavaScript, TypeScript
-- React
-- Tailwind CSS
-- Git & GitHub
-
----
 
 ### 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=salsanabila-tech&show_icons=true&theme=dracula" />
