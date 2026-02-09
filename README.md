@@ -40,8 +40,9 @@ const salsaNabila = {
   currentFocus: "Building mobile apps & improving UI/UX",
   funFact: "I enjoy turning ideas into real apps 📱✨"
 };
-</td> <td width="45%" align="center"> <img src="https://illustrations.popsy.co/gray/work-from-home.svg" width="300"/> </td> </tr> </table>
+
 
 
 ✨ Terima kasih sudah mampir!
-
+```markdown
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
