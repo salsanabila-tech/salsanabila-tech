@@ -14,8 +14,7 @@
 </p>
 
 ---
-
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 <table>
 <tr>
