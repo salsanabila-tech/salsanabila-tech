@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" align="center">
 
 ```js
 const salsaNabila = {
@@ -43,6 +43,5 @@ const salsaNabila = {
 
 
 ```
-✨ Terima kasih sudah mampir!
 </td> <td width="45%" align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> </td> </tr> </table>
 
